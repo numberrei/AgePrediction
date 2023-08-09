@@ -1,7 +1,9 @@
 # Age Prediction
- Add short description of project here > 
+The young appearance seems to be more and more desired as the years go by. Becoming old is well, becoming old. This AI serves its purpose to recognize your true age whether you be a baby, child, teenager, adult or senior.
 
-![add image descrition here](direct image link here)
+![output6](https://github.com/Agnild/AgePrediction/assets/69535819/661cb6dd-9c1e-4759-ab56-85cf01c6ac9b)
+
+
 
 ## The Algorithm
 
