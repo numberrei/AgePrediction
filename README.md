@@ -79,4 +79,4 @@ To conclude our project we need to finally test it out, see how our work has pai
 4. To round up and complete this project we finally come to the point of testing an image out of our folder with the last, following command `imagenet.py --model=$NET/resnet18.onnx --input_blob=input_0 --output_blob=output_0 --labels=$DATASET/labels.txt $DATASET/test/ANY_CLASS/ANY_IMAGE_NAME.jpg ANY_OUTPUT_NAME.jpg`
 5. Check the classification folder for the name you have chosen for the output and there you go! Happy testing!
 
-[View a video explanation here](video link)
+[View a video explanation here](https://youtu.be/9Ss26DyR0Rc)
