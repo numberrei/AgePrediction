@@ -34,6 +34,7 @@ Visual Studio Code is what we will be using to do all of our training, testing, 
 **Organizing the original dataset**
 
 The original dataset i first linked isn't completely up to our standards for this project. We need to first rearrange the images and create new folders to help our Nano understand what's going on.
+**if you chose to download the organized dataset you can skip this step**
 
 1. Download the dataset from kaggle through the link given at the top of this page.
 2. Extract the zip folder which may take around 2 hours or less.
