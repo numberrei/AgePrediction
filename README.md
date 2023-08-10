@@ -10,8 +10,8 @@ The young appearance seems to be more and more desired as the years go by. Becom
 
 
 ## The Algorithm
-The algorithm is constructed of thousands of images for each age group which was all reorganised from the following dataset https://www.kaggle.com/datasets/mariafrenti/age-prediction
-Or alternatively you can choose the easy route of the fully organized dataset i made https://www.kaggle.com/datasets/agnild/age-prediction
+The algorithm is constructed of thousands of images for each age group which was all reorganised from [this dataset](https://www.kaggle.com/datasets/mariafrenti/age-prediction)
+Or alternatively you can choose the easy route of [the fully organized dataset i made.](https://www.kaggle.com/datasets/agnild/age-prediction)
 
 
 ## Running this project
