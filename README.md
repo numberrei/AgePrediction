@@ -1,3 +1,5 @@
+Made for a summer camp project!!
+
 # Age Prediction
 The young appearance seems to be more and more desired as the years go by. Becoming old is well, becoming old. This AI serves its purpose to recognize your true age whether you be a baby, child, teenager, adult or senior.
 
